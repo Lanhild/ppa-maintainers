@@ -1,0 +1,3 @@
+#!/bin/bash
+# Template post-install hook file to build packages for numigi-ppa
+# You might write any instructions you want to exectute after the installation of a package here.
