@@ -1,5 +1,5 @@
 #!/bin/sh
-# See https://github.com/Lanhild/numigi-maintainers
+# See https://github.com/Lanhild/ppa-maintainers
 # Template helper script used to generate packages using the fpm utility
 # See HELP for details
 set -euo pipefail
