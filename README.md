@@ -1,5 +1,11 @@
-Packaging conventions for [numigi-ppa](https://github.com/Lanhild/numigi-ppa)
-============================
+# Nota
+All of the packages linking to this repository are made for @Numigi. This is with the purpose of facilitating the installation of new systems.
+
+> All of the users machines @Numigi use the same base distribution: Ubuntu. Packages are compressed in a `.deb` format and must follow the conventions listed in this repository.
+
+The maintainer of these utilities is myself, @Lanhild.
+
+# Packaging conventions for [numigi-ppa](https://github.com/Lanhild/numigi-ppa)
 
 > Folder structure options and naming conventions for packages
 
