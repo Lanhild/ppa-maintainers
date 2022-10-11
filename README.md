@@ -1,9 +1,9 @@
 # Nota
-All of the packages linking to this repository are made for @Numigi. This is with the purpose of facilitating the installation of new systems.
+All of the packages linking to this repository are made for [@Numigi](https://github.com/Numigi). This is with the purpose of facilitating the installation of new systems.
 
-> All of the users machines @Numigi use the same base distribution: Ubuntu. Packages are compressed in a `.deb` format and must follow the conventions listed in this repository.
+> All of the users machines [@Numigi](https://github.com/Numigi) use the same base distribution: Ubuntu. Packages are compressed in a `.deb` format and must follow the conventions listed in this repository.
 
-The maintainer of these utilities is myself, @Lanhild.
+The maintainer of these utilities is myself, [@Lanhild](https://github.com/Lanhild).
 
 # Packaging conventions for [numigi-ppa](https://github.com/Lanhild/numigi-ppa)
 
